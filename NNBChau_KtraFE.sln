@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NNBChau_KtraFE", "NNBChau_KtraFE\NNBChau_KtraFE.csproj", "{51EA8683-6B33-4622-B0F1-05327301348D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51EA8683-6B33-4622-B0F1-05327301348D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EA8683-6B33-4622-B0F1-05327301348D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EA8683-6B33-4622-B0F1-05327301348D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EA8683-6B33-4622-B0F1-05327301348D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34394DD4-6186-402D-9EDE-8F9F391CAE6B}
+	EndGlobalSection
+EndGlobal
